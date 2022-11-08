@@ -1,7 +1,7 @@
 # credit_card
 
 A new Flutter project.
-https://codeyad.com/
+Visit this course : https://b2n.ir/t07382
 
 ## Getting Started
 
